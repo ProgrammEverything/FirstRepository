@@ -6,7 +6,7 @@ I know Python - C++ and some html - css - typescript and a little assembly.
 I really like technology and computers and one of my favorite hobbies is working and coding.
 NGL like this is the true hobby for every programmer in my oppinion.
 I live currently in Iran and It is great for me.
-#My story about programming
+# My story about programming
 First I was like sittin at the computer and thinking "I want a app which simulates how to install windows. Because not many people know how to install windows."
 So my first main motive was this HOWEVER there were other motives I think like because I learned computers it was cool and etc...
 I don't really remember this part but I think I found a website or video IDK which 
