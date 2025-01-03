@@ -20,7 +20,7 @@ I learned it. \
 Many years later many courses later and ... \
 I WAS BORED. I really wanted to make games so I learned C++ cuz some person on his youtube vid mentioned how he chose unity over ... and unreal uses C++ \
 I WANTED TO LEARN IT. \
-It again being a free course \
+It again being a free course
 ### Notice that I watched some of the courses like python ones full but C++ and other ones I loved to research like I entered "E" in the visual studio for C++ and found something starting with "E" and I learnt it and cuz everything is so chained together I learned LOTS of concepts like from a function starting with "E"
 HTML , ... was also a course \
 My brother was having the HTML course live classes but gave up and I impresonated him (My mom and brother agreed) that I would be named my brother but I was behind the screen. \
