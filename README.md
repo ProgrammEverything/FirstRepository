@@ -1,6 +1,6 @@
 # FirstRepository
 ### ***This is the first repository for this account***
-Hello, I have made this account for uploading my projects.
+Hello, I have made this account for uploading my projects.-
 I am learning AI and It's cool. I recommend you to try it.
 I know Python - C++ and some html - css - typescript and a little assembly.
 I really like technology and computers and one of my favorite hobbies is working and coding.
