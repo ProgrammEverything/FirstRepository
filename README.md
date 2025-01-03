@@ -5,7 +5,7 @@ I am learning AI and It's cool. I recommend you to try it. \
 I know Python - C++ and some html - css - typescript and a little assembly. \
 I really like technology and computers and one of my favorite hobbies is working and coding. \
 NGL like this is the true hobby for every programmer in my oppinion. \
-I live currently in Iran and It is great for me. \
+I live currently in Iran and It is great for me.
 # My story about programming
 First I was like sittin at the computer and thinking "I want a app which simulates how to install windows. Because not many people know how to install windows." \
 So my first main motive was this HOWEVER there were other motives I think like because I learned computers it was cool and etc... \
@@ -25,6 +25,6 @@ It again being a free course \
 HTML , ... was also a course \
 My brother was having the HTML course live classes but gave up and I impresonated him (My mom and brother agreed) that I would be named my brother but I was behind the screen. \
 And I LEARNT some of it. \
-NGL I forgot most of it cuz I don't use it often. \
+NGL I forgot most of it cuz I don't use it often.
 # There are more stories but I am too tired to write it but I will update this post!
 SOOOOOOO I hope this explained everything!
