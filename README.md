@@ -26,5 +26,5 @@ HTML , ... was also a course
 My brother was having the HTML course live classes but gave up and I impresonated him (My mom and brother agreed) that I would be named my brother but I was behind the screen.
 And I LEARNT some of it.
 NGL I forgot most of it cuz I don't use it often.
-#There are more stories but I am too tired to write it but I will update this post!
+# There are more stories but I am too tired to write it but I will update this post!
 SOOOOOOO I hope this explained everything!
